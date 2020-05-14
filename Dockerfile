@@ -1,4 +1,4 @@
-FROM flink:1.9.0-scala_2.12
+FROM flink:1.10.1-scala_2.12
 
 ARG LOGBACK_VERSION=1.2.3
 ARG SLF4J_VERSION=1.7.25
